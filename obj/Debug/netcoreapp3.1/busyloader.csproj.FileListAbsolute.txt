@@ -1,0 +1,12 @@
+/Users/asabbour/Documents/Git/busyloader/obj/Debug/netcoreapp3.1/busyloader.csprojAssemblyReference.cache
+/Users/asabbour/Documents/Git/busyloader/obj/Debug/netcoreapp3.1/busyloader.AssemblyInfoInputs.cache
+/Users/asabbour/Documents/Git/busyloader/obj/Debug/netcoreapp3.1/busyloader.AssemblyInfo.cs
+/Users/asabbour/Documents/Git/busyloader/obj/Debug/netcoreapp3.1/busyloader.csproj.CoreCompileInputs.cache
+/Users/asabbour/Documents/Git/busyloader/bin/Debug/netcoreapp3.1/busyloader.deps.json
+/Users/asabbour/Documents/Git/busyloader/bin/Debug/netcoreapp3.1/busyloader.runtimeconfig.json
+/Users/asabbour/Documents/Git/busyloader/bin/Debug/netcoreapp3.1/busyloader.runtimeconfig.dev.json
+/Users/asabbour/Documents/Git/busyloader/bin/Debug/netcoreapp3.1/busyloader.dll
+/Users/asabbour/Documents/Git/busyloader/bin/Debug/netcoreapp3.1/busyloader.pdb
+/Users/asabbour/Documents/Git/busyloader/obj/Debug/netcoreapp3.1/busyloader.dll
+/Users/asabbour/Documents/Git/busyloader/obj/Debug/netcoreapp3.1/busyloader.pdb
+/Users/asabbour/Documents/Git/busyloader/obj/Debug/netcoreapp3.1/busyloader.genruntimeconfig.cache
